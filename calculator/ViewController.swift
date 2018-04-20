@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
 //  calculator
-// Hoang Van Long
+// 
 
-// Day la dong chu moi vua go xong
+//
 
 import UIKit
 
