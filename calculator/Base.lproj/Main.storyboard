@@ -99,7 +99,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="35"/>
-                                <state key="normal" title="X"/>
+                                <state key="normal" title="*"/>
                                 <connections>
                                     <action selector="btnHoatdong:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tgd-iq-PUi"/>
                                 </connections>
