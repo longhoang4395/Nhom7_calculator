@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  calculator
-//
+// Hoang Van Long
 
 //
 
